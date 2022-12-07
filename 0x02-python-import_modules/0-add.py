@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
-if name == "main":
-
-    	"""Print some of 1 and 2"""
-
+	if name == "main":
         from add_0 import add
 
         a = 1
